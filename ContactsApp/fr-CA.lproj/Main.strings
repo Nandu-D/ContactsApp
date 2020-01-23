@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "9Ei-XT-y6u"; */
+"9Ei-XT-y6u.text" = "Nom de famille: ";
+
+/* Class = "UILabel"; text = "Phone Number: "; ObjectID = "CFn-Wf-ih6"; */
+"CFn-Wf-ih6.text" = "Numéro de téléphone: ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KF5-Z6-B6Y"; */
+"KF5-Z6-B6Y.text" = "Titre";
+
+/* Class = "UILabel"; text = "First Name: "; ObjectID = "MZ0-s1-oYw"; */
+"MZ0-s1-oYw.text" = "Prénom: ";
+
+/* Class = "UILabel"; text = "Strret Address 2: "; ObjectID = "WV2-4f-nyc"; */
+"WV2-4f-nyc.text" = "Adresse de rue 2: ";
+
+/* Class = "UILabel"; text = "Email: "; ObjectID = "WtE-eS-nKr"; */
+"WtE-eS-nKr.text" = "Email: ";
+
+/* Class = "UILabel"; text = "Street Address 1: "; ObjectID = "bbx-S9-BZd"; */
+"bbx-S9-BZd.text" = "Adresse de rue 1: ";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "cp5-84-RWc"; */
+"cp5-84-RWc.title" = "Contacts";
+
+/* Class = "UILabel"; text = "Zip Code: "; ObjectID = "fMR-JM-9P2"; */
+"fMR-JM-9P2.text" = "Code postal: ";
+
+/* Class = "UILabel"; text = "Favourite: "; ObjectID = "mac-Lv-dOG"; */
+"mac-Lv-dOG.text" = "Préféré: ";
